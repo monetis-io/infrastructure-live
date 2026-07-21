@@ -1,0 +1,11 @@
+.DS_Store
+
+.github
+.husky
+.vscode
+
+node_modules
+
+LICENCE
+
+README.md
